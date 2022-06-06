@@ -1,1 +1,1 @@
-[Welcome to my home page!](https://ZhouAron.github.io/index.html)
+[Welcome to my home page!](https://ZhouAron.github.io)
